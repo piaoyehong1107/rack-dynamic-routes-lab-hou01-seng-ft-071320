@@ -8,6 +8,6 @@ class Item
   end
   def self.all 
   @@items
-end
+  end
   
 end
